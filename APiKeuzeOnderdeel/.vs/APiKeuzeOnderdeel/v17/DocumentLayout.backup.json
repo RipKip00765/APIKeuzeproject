@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\vansc\\OneDrive\\Documenten\\GitHub\\APIKeuzeproject\\APiKeuzeOnderdeel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE6185A8-7E74-48E2-919D-30E1887D009E}|APIReader\\APIReader.csproj|c:\\users\\vansc\\onedrive\\documenten\\github\\apikeuzeproject\\apikeuzeonderdeel\\apireader\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE6185A8-7E74-48E2-919D-30E1887D009E}|APIReader\\APIReader.csproj|solutionrelative:apireader\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF985E74-9D53-4D38-8E31-78FD21F3CFF5}|APiKeuzeOnderdeel\\APiKeuzeOnderdeel.csproj|c:\\users\\vansc\\onedrive\\documenten\\github\\apikeuzeproject\\apikeuzeonderdeel\\apikeuzeonderdeel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF985E74-9D53-4D38-8E31-78FD21F3CFF5}|APiKeuzeOnderdeel\\APiKeuzeOnderdeel.csproj|solutionrelative:apikeuzeonderdeel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF985E74-9D53-4D38-8E31-78FD21F3CFF5}|APiKeuzeOnderdeel\\APiKeuzeOnderdeel.csproj|C:\\Users\\vansc\\OneDrive\\Documenten\\GitHub\\APIKeuzeproject\\APiKeuzeOnderdeel\\apikeuzeonderdeel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF985E74-9D53-4D38-8E31-78FD21F3CFF5}|APiKeuzeOnderdeel\\APiKeuzeOnderdeel.csproj|solutionrelative:apikeuzeonderdeel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CE6185A8-7E74-48E2-919D-30E1887D009E}|APIReader\\APIReader.csproj|C:\\Users\\vansc\\OneDrive\\Documenten\\GitHub\\APIKeuzeproject\\APiKeuzeOnderdeel\\apireader\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6185A8-7E74-48E2-919D-30E1887D009E}|APIReader\\APIReader.csproj|solutionrelative:apireader\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 326,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,27 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\vansc\\OneDrive\\Documenten\\GitHub\\APIKeuzeproject\\APiKeuzeOnderdeel\\APIReader\\Class1.cs",
               "RelativeDocumentMoniker": "APIReader\\Class1.cs",
               "ToolTip": "C:\\Users\\vansc\\OneDrive\\Documenten\\GitHub\\APIKeuzeproject\\APiKeuzeOnderdeel\\APIReader\\Class1.cs",
               "RelativeToolTip": "APIReader\\Class1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBQAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T13:04:45.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\vansc\\OneDrive\\Documenten\\GitHub\\APIKeuzeproject\\APiKeuzeOnderdeel\\APiKeuzeOnderdeel\\Form1.cs",
               "RelativeDocumentMoniker": "APiKeuzeOnderdeel\\Form1.cs",
               "ToolTip": "C:\\Users\\vansc\\OneDrive\\Documenten\\GitHub\\APIKeuzeproject\\APiKeuzeOnderdeel\\APiKeuzeOnderdeel\\Form1.cs [Design]",
               "RelativeToolTip": "APiKeuzeOnderdeel\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:29:19.412Z"
+              "WhenOpened": "2024-12-11T10:29:19.412Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },

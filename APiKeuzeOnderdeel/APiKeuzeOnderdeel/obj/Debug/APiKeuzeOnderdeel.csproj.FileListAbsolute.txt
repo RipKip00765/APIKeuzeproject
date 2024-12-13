@@ -7,3 +7,4 @@ C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APiKeuzeOnderdeel\APiK
 C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APiKeuzeOnderdeel\APiKeuzeOnderdeel\obj\Debug\APiKeuzeOnderdeel.csproj.CoreCompileInputs.cache
 C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APiKeuzeOnderdeel\APiKeuzeOnderdeel\obj\Debug\APiKeuzeOnderdeel.exe
 C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APiKeuzeOnderdeel\APiKeuzeOnderdeel\obj\Debug\APiKeuzeOnderdeel.pdb
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APiKeuzeOnderdeel\APiKeuzeOnderdeel\obj\Debug\APiKeuzeOnderdeel.Form1.resources
