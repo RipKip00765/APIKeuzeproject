@@ -48,6 +48,6 @@ namespace APIReader
                     Console.WriteLine($"Er is een fout opgetreden: {ex.Message}");
                 }
             }
-        }
+        },
     }
 }
