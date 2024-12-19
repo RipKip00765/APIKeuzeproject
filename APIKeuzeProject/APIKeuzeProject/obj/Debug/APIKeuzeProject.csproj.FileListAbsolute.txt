@@ -24,3 +24,4 @@ C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeu
 C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuze.B708D130.Up2Date
 C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuzeProject.exe
 C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuzeProject.pdb
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuzeProject.Form2.resources

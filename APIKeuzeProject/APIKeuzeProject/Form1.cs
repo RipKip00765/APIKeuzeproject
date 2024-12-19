@@ -129,7 +129,10 @@ namespace APIKeuzeProject
 
         public void Eindscherm()
         {
-
+            using (Form2 toevoegscherm = new Form2())
+            {
+                toevoegscherm.ShowDialog();
+            }
         }
 
     }

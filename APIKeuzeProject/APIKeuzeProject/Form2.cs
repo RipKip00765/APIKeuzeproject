@@ -12,6 +12,8 @@ namespace APIKeuzeProject
 {
     public partial class Form2 : Form
     {
+        private Form1 form1;
+
         public Form2()
         {
             InitializeComponent();
@@ -19,7 +21,7 @@ namespace APIKeuzeProject
 
         private void Form2_Load(object sender, EventArgs e)
         {
-
+            
         }
     }
 }
