@@ -95,7 +95,7 @@ namespace APIKeuzeProject
             }
             else
             {
-                MessageBox.Show("Je hebt alle vragen beantwoord!");
+                
                 Eindscherm();
             }
         }
@@ -129,10 +129,8 @@ namespace APIKeuzeProject
 
         public void Eindscherm()
         {
-            using (Form2 toevoegscherm = new Form2())
-            {
-                toevoegscherm.ShowDialog();
-            }
+            MessageBox.Show("Je hebt alle vragen beantwoord!");
+            MessageBox.Show("je hebt "+ AantalCorrect+"van de 20 goed, uw eindscore is "+ AantalCorrect/2);
         }
 
     }
