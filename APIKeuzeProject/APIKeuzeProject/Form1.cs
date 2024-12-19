@@ -17,6 +17,8 @@ namespace APIKeuzeProject
     {
         private List<TriviaQuestion> triviaQuestions;
         private int currentQuestionIndex = 0;
+        public int AantalCorrect = 0;
+        public int AantalFout = 0;
         public Form1()
         {
             InitializeComponent();
@@ -75,10 +77,14 @@ namespace APIKeuzeProject
             if (selectedAnswer == question.correct_answer)
             {
                 MessageBox.Show("Correct!");
+                AantalCorrect++;
+                CorrectLBL.Text = AantalCorrect.ToString();
             }
             else
             {
                 MessageBox.Show("Incorrect. Het juiste antwoord was: " + question.correct_answer);
+                AantalFout++;
+                IncorrectLBL.Text = AantalFout.ToString();
             }
 
             currentQuestionIndex++;
@@ -90,6 +96,7 @@ namespace APIKeuzeProject
             else
             {
                 MessageBox.Show("Je hebt alle vragen beantwoord!");
+                Eindscherm();
             }
         }
 
@@ -118,6 +125,11 @@ namespace APIKeuzeProject
             public string question { get; set; }
             public string correct_answer { get; set; }
             public List<string> incorrect_answers { get; set; }
+        }
+
+        public void Eindscherm()
+        {
+
         }
 
     }

@@ -11,3 +11,16 @@ C:\Users\vansc\OneDrive\Documenten\GitHub\Rekening\APIKeuzeProject\APIKeuzeProje
 C:\Users\vansc\OneDrive\Documenten\GitHub\Rekening\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuze.B708D130.Up2Date
 C:\Users\vansc\OneDrive\Documenten\GitHub\Rekening\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuzeProject.exe
 C:\Users\vansc\OneDrive\Documenten\GitHub\Rekening\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuzeProject.pdb
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\bin\Debug\APIKeuzeProject.exe.config
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\bin\Debug\APIKeuzeProject.exe
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\bin\Debug\APIKeuzeProject.pdb
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuzeProject.csproj.AssemblyReference.cache
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuzeProject.Form1.resources
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuzeProject.Properties.Resources.resources
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuzeProject.csproj.GenerateResource.cache
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuzeProject.csproj.CoreCompileInputs.cache
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuze.B708D130.Up2Date
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuzeProject.exe
+C:\Users\vansc\OneDrive\Documenten\GitHub\APIKeuzeproject\APIKeuzeProject\APIKeuzeProject\obj\Debug\APIKeuzeProject.pdb
